@@ -20,7 +20,7 @@ Verify if you have Python 3.8.* installed. If not, checkout these resources:
 ### Installing Dependencies 
 Run on terminal, inside imgbb directory
 
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
 
 ## ⚙️ Config of .env file
 Inside your .env file type the following
@@ -42,7 +42,7 @@ Examples of the arguments of send_imgs function
 | Windows   | C:\Users\user1\Documents\photos   | C:\Users\user1\Documents\urls.xlsx   |
 
 ### To be able to launch:
-    Inside the imbb directory type the following on the terminal
+Inside the imbb directory type the following on the terminal
 
 | Plataform |        Comand         |
 | --------- | --------------------- |
